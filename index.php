@@ -17,9 +17,9 @@ function admin_page_menu (){
  add_menu_page(
         'کد محصولات',
         'کد محصولات',
-        'manage_woo',
+        'manage_options',
         'product-code',
-        'product_code_page'
+        'dashicons-admin-post'
     );
 }
 ?>
